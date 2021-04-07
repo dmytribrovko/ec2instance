@@ -1,0 +1,1 @@
+AWS module to create a simple EC2 instance on Ubuntu 20.04-amd64 
